@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg"  height="40" id="svg4590" xmlns:xml="http://www.w3.org/XML/1998/namespace" version="1.1" enable-background="new 0 0 36.584 21.321" x="0px" y="0px" width="40" viewBox="0 0 40 40" xml:space="preserve" gorn="0">
+    <desc >
+        <referenceFile >kobiconn-16PJ138.schematic.svg</referenceFile>
+    </desc>
+    <metadata  id="metadata36">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs34"/>
+    <g  transform="translate(0,18.679001)">
+        <g >
+            <g >
+                <g >
+                    <g  id="schematic" gorn="0.3.0.0.0.0">
+                        <path  id="line12" d="M 30,-8.679001 H 19.200001 l -3.6,3.6000004 -3.6,-3.6000004" fill="none" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" stroke-width="1" stroke="#000000" gorn="0.3.0.0.0.0.0"/>
+                        <line  id="line14" fill="none" y1="11.320999" y2="11.320999" x1="30" x2="8.4000015" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" stroke-width="1" stroke="#000000" gorn="0.3.0.0.0.0.1"/>
+                        <g  transform="rotate(-90)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <rect  height="5" id="rect16" x="-12.320999" y="4" stroke-width="1.22474492" width="24" gorn="0.3.0.0.0.0.2.0.0.0.0"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <line  id="connector3pin" fill="none" y1="-8.6790009" y2="-8.6790009" x1="37.200001" x2="30" style="stroke-linecap:round" stroke-width="0.75" stroke="#787878" gorn="0.3.0.0.0.0.3"/>
+                        <rect height="0.0015" id="connector3terminal" fill="none" x="37.5671" y="-8.67975" stroke-width="0" width="0.0159" stroke="none"/>
+                        <rect  height="0.0015" fill="none" x="37.5671" y="-8.67975" stroke-width="0" width="0.0159" stroke="none"/>
+                        <rect  height="0.001" x="37.200001" y="-8.6790009" style="fill:none" width="0.001"/>
+                        <text  id="text20" x="25.700199" y="1.5971993" style="font-size:3.02399993px;font-family:DroidSans" font-size="3.024" gorn="0.3.0.0.0.0.6"/>
+                        <line  id="connector0pin" fill="none" y1="1.320999" y2="1.320999" x1="37" x2="29.799999" style="stroke-linecap:round" stroke-width="0.75" stroke="#787878" gorn="0.3.0.0.0.0.7"/>
+                        <rect height="0.0015" id="connector0terminal" fill="none" x="37.367" y="1.32025" stroke-width="0" width="0.0159" stroke="none"/>
+                        <rect  height="0.0015" fill="none" x="37.367" y="1.32025" stroke-width="0" width="0.0159" stroke="none"/>
+                        <rect  height="0" x="36" y="19.926001" style="fill:none" width="0.001"/>
+                        <text  id="text24" x="25.700199" y="8.798399" style="font-size:3.02399993px;font-family:DroidSans" font-size="3.024" gorn="0.3.0.0.0.0.10"/>
+                        <line  id="connector2pin" fill="none" y1="11.320999" y2="11.320999" x1="37.200001" x2="30" style="stroke-linecap:round" stroke-width="0.75" stroke="#787878" gorn="0.3.0.0.0.0.11"/>
+                        <rect  height="0.0015" id="connector2terminal" fill="none" x="37.5671" y="11.3202" stroke-width="0" width="0.0159" stroke="none" gorn="0.3.0.0.0.0.12"/>
+                        <rect  height="0" x="36" y="5.527" style="fill:none" width="0.001"/>
+                        <text  id="text28" x="30.128273" y="9.5959988" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.02399993px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle" font-size="3.024" gorn="0.3.0.0.0.0.14">SLEEVE</text>
+                        <g  transform="translate(1,-9)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <g  id="g4573" gorn="0.3.0.0.0.0.15.0.0.0.0">
+                                            <path  id="path3744" d="M 29,10.320999 H 19 V 5.3209991" fill="none" style="stroke-linecap:round;stroke-linejoin:miter;" stroke-width="1" stroke-opacity="1" stroke="#000000" gorn="0.3.0.0.0.0.15.0.0.0.0.0"/>
+                                            <path  id="path4569" d="m 17,7.3209991 2,-2 2,2" fill="none" style="stroke-linecap:butt;stroke-linejoin:miter;" stroke-width="1" stroke-opacity="1" stroke="#000000" gorn="0.3.0.0.0.0.15.0.0.0.0.1"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <text  id="text4575" x="30.074429" y="-0.15400138" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.02399993px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle" font-size="3.024" gorn="0.3.0.0.0.0.16">SWITCH</text>
+                        <text  id="text4577" x="30.033447" y="-10.216501" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.02399993px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle" font-size="3.024" gorn="0.3.0.0.0.0.17">TIP</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
