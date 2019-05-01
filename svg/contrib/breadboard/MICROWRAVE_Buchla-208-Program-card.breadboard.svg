@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" x="0in" version="1.2" y="0in"  viewBox="0 0 57000 6500" baseProfile="tiny" height="0.65in" width="5.7in">
+    <desc >
+        <referenceFile >microwrave-208.breadboard.svg</referenceFile>
+    </desc>
+    <desc />
+    <g gorn="0.2"  id="breadboard">
+        <rect  fill="#d02040" height="3000" width="57000"/>
+        <circle cx="1000" gorn="0.2.1" cy="1000"  fill="#555" r="400" id="connector0pin"/>
+        <circle cx="2000" gorn="0.2.2" cy="1000"  fill="#555" r="400" id="connector1pin"/>
+        <circle cx="3000" gorn="0.2.3" cy="1000"  fill="#555" r="400" id="connector2pin"/>
+        <circle cx="4000" gorn="0.2.4" cy="1000"  fill="#555" r="400" id="connector3pin"/>
+        <circle cx="5000" gorn="0.2.5" cy="1000"  fill="#555" r="400" id="connector4pin"/>
+        <circle cx="6000" gorn="0.2.6" cy="1000"  fill="#555" r="400" id="connector5pin"/>
+        <circle cx="7000" gorn="0.2.7" cy="1000"  fill="#555" r="400" id="connector6pin"/>
+        <circle cx="8000" gorn="0.2.8" cy="1000"  fill="#555" r="400" id="connector7pin"/>
+        <circle cx="9000" gorn="0.2.9" cy="1000"  fill="#555" r="400" id="connector8pin"/>
+        <circle cx="10000" gorn="0.2.10" cy="1000"  fill="#555" r="400" id="connector9pin"/>
+        <circle cx="11000" gorn="0.2.11" cy="1000"  fill="#555" r="400" id="connector10pin"/>
+        <circle cx="12000" gorn="0.2.12" cy="1000"  fill="#555" r="400" id="connector11pin"/>
+        <circle cx="13000" gorn="0.2.13" cy="1000"  fill="#555" r="400" id="connector12pin"/>
+        <circle cx="14000" gorn="0.2.14" cy="1000"  fill="#555" r="400" id="connector13pin"/>
+        <circle cx="15000" gorn="0.2.15" cy="1000"  fill="#555" r="400" id="connector14pin"/>
+        <circle cx="16000" gorn="0.2.16" cy="1000"  fill="#555" r="400" id="connector15pin"/>
+        <circle cx="17000" gorn="0.2.17" cy="1000"  fill="#555" r="400" id="connector16pin"/>
+        <circle cx="18000" gorn="0.2.18" cy="1000"  fill="#555" r="400" id="connector17pin"/>
+        <circle cx="19000" gorn="0.2.19" cy="1000"  fill="#555" r="400" id="connector18pin"/>
+        <circle cx="20000" gorn="0.2.20" cy="1000"  fill="#555" r="400" id="connector19pin"/>
+        <circle cx="21000" gorn="0.2.21" cy="1000"  fill="#555" r="400" id="connector20pin"/>
+        <circle cx="22000" gorn="0.2.22" cy="1000"  fill="#555" r="400" id="connector21pin"/>
+        <circle cx="23000" gorn="0.2.23" cy="1000"  fill="#555" r="400" id="connector22pin"/>
+        <circle cx="24000" gorn="0.2.24" cy="1000"  fill="#555" r="400" id="connector23pin"/>
+        <circle cx="25000" gorn="0.2.25" cy="1000"  fill="#555" r="400" id="connector24pin"/>
+        <circle cx="26000" gorn="0.2.26" cy="1000"  fill="#555" r="400" id="connector25pin"/>
+        <circle cx="27000" gorn="0.2.27" cy="1000"  fill="#555" r="400" id="connector26pin"/>
+        <circle cx="28000" gorn="0.2.28" cy="1000"  fill="#555" r="400" id="connector27pin"/>
+        <circle cx="29000" gorn="0.2.29" cy="1000"  fill="#555" r="400" id="connector28pin"/>
+        <circle cx="30000" gorn="0.2.30" cy="1000"  fill="#555" r="400" id="connector29pin"/>
+        <circle cx="31000" gorn="0.2.31" cy="1000"  fill="#555" r="400" id="connector30pin"/>
+        <circle cx="32000" gorn="0.2.32" cy="1000"  fill="#555" r="400" id="connector31pin"/>
+        <circle cx="33000" gorn="0.2.33" cy="1000"  fill="#555" r="400" id="connector32pin"/>
+        <circle cx="34000" gorn="0.2.34" cy="1000"  fill="#555" r="400" id="connector33pin"/>
+        <circle cx="35000" gorn="0.2.35" cy="1000"  fill="#555" r="400" id="connector34pin"/>
+        <circle cx="36000" gorn="0.2.36" cy="1000"  fill="#555" r="400" id="connector35pin"/>
+        <circle cx="37000" gorn="0.2.37" cy="1000"  fill="#555" r="400" id="connector36pin"/>
+        <circle cx="38000" gorn="0.2.38" cy="1000"  fill="#555" r="400" id="connector37pin"/>
+        <circle cx="39000" gorn="0.2.39" cy="1000"  fill="#555" r="400" id="connector38pin"/>
+        <circle cx="40000" gorn="0.2.40" cy="1000"  fill="#555" r="400" id="connector39pin"/>
+        <circle cx="41000" gorn="0.2.41" cy="1000"  fill="#555" r="400" id="connector40pin"/>
+        <circle cx="42000" gorn="0.2.42" cy="1000"  fill="#555" r="400" id="connector41pin"/>
+        <circle cx="43000" gorn="0.2.43" cy="1000"  fill="#555" r="400" id="connector42pin"/>
+        <circle cx="44000" gorn="0.2.44" cy="1000"  fill="#555" r="400" id="connector43pin"/>
+        <circle cx="45000" gorn="0.2.45" cy="1000"  fill="#555" r="400" id="connector44pin"/>
+        <circle cx="46000" gorn="0.2.46" cy="1000"  fill="#555" r="400" id="connector45pin"/>
+        <circle cx="47000" gorn="0.2.47" cy="1000"  fill="#555" r="400" id="connector46pin"/>
+        <circle cx="48000" gorn="0.2.48" cy="1000"  fill="#555" r="400" id="connector47pin"/>
+        <circle cx="49000" gorn="0.2.49" cy="1000"  fill="#555" r="400" id="connector48pin"/>
+        <circle cx="50000" gorn="0.2.50" cy="1000"  fill="#555" r="400" id="connector49pin"/>
+        <circle cx="51000" gorn="0.2.51" cy="1000"  fill="#555" r="400" id="connector50pin"/>
+        <circle cx="52000" gorn="0.2.52" cy="1000"  fill="#555" r="400" id="connector51pin"/>
+        <circle cx="53000" gorn="0.2.53" cy="1000"  fill="#555" r="400" id="connector52pin"/>
+        <circle cx="54000" gorn="0.2.54" cy="1000"  fill="#555" r="400" id="connector53pin"/>
+        <circle cx="55000" gorn="0.2.55" cy="1000"  fill="#555" r="400" id="connector54pin"/>
+        <circle cx="56000" gorn="0.2.56" cy="1000"  fill="#555" r="400" id="connector55pin"/>
+        <rect x="10500" y="3000"  fill="#d04020" height="3500" width="45260"/>
+        <rect x="11560" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="13120" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="14680" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="16240" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="17800" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="19360" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="20920" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="22480" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="24040" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="25600" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="27160" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="28720" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="30280" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="31840" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="33400" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="34960" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="36520" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="38080" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="39640" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="41200" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="42760" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="44320" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="45880" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="47440" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="49000" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="50560" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="52120" y="3000"  fill="gold" height="3000" width="1000"/>
+        <rect x="53680" y="3000"  fill="gold" height="3000" width="1000"/>
+    </g>
+</svg>

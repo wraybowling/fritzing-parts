@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg"  height="15.240001mm" id="svg20" version="1.1" viewBox="0 0 10.16 15.24" width="10.16mm" gorn="0">
+    <desc >
+        <referenceFile >kobiconn-16PJ138.breadboard.svg</referenceFile>
+    </desc>
+    <metadata  id="metadata4649">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs4647"/>
+    <g  transform="translate(0,-2.7600009)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g  id="g833" stroke-opacity="1" stroke-width="1" stroke="#8d8d8d" gorn="0.3.0.0.0.0.0.0.0.0">
+                                        <path  d="M 5.08,5.7575011 V 6.4999995" id="path5216" fill="none" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-opacity="1" stroke-width="1" stroke="#8d8d8d" gorn="0.3.0.0.0.0.0.0.0.0.0"/>
+                                        <rect  height="2.1258793" id="rect829" fill="none" x="4.3713737" y="3.7140894" style="stroke-miterlimit:4;stroke-dasharray:none;" stroke-opacity="1" stroke-width="1" width="1.4172527" ry="0.7369715" stroke="#8d8d8d" gorn="0.3.0.0.0.0.0.0.0.0.1"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <rect  height="10.5" id="rect4663" fill="#f1e281" x="0.5" y="3.4899988" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" stroke-width="0.88741195" width="9" ry="0.36456135" stroke="none" fill-opacity="1" gorn="0.4"/>
+    <circle  id="path5208" fill="#313131" cx="5" cy="8.8867407" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-opacity="1" stroke-width="2" stroke="#8d8d8d" fill-opacity="1" gorn="0.5" r="3.1710668"/>
+    <circle  id="connector2pin" fill="#b3b3b3" cx="5.0799999" cy="12.699999" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-opacity="1" stroke-width="1.59999979" stroke="none" fill-opacity="1" gorn="0.6" r="0.5"/>
+    <circle  id="connector3pin" fill="#b3b3b3" cx="5.0799999" cy="5.079999" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-opacity="1" stroke-width="1.59999979" stroke="none" fill-opacity="1" gorn="0.7" r="0.5"/>
+    <circle  id="connector0pin" fill="#b3b3b3" cx="5.0799999" cy="2.5399985" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-opacity="1" stroke-width="1.75713694" stroke="none" fill-opacity="1" gorn="0.8" r="0.54910535"/>
+</svg>
